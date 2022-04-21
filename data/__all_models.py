@@ -1,3 +1,2 @@
-from . import users
-from . import spot_list
-from . import tricks_data
+from . import user
+from . import spots
